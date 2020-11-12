@@ -2,7 +2,7 @@
 
 [<img src="thin2.png" alt="Good" class="inline"/>](https://projectemiszero.github.io/Congratulations/)
 
-[<img src="thin3.png" alt="Bad" class="inline"/>](https://projectemiszero.github.io/Project-EmisZero/)
+[<img src="thin3.png" alt="Bad" class="inline"/>](https://projectemiszero.github.io/Sorry/)
 
 
 
