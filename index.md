@@ -9,4 +9,4 @@
 
 
 
-[<img src="thing4.png" alt="hi" class="inline"/>](https://projectemiszero.github.io/Project-EmisZero/)
+[<img src="thin4.png" alt="hi" class="inline"/>](https://projectemiszero.github.io/Project-EmisZero/)
