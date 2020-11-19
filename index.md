@@ -1,4 +1,4 @@
-[<img src="thing1.png" alt="3line" class="inline"/>](https://projectemiszero.github.io/Project-EmisZero/)
+[<img src="thing1.png" alt="3line" class="inline"/>](https://projectemiszero.github.io/User-Info/)
 
 [<img src="thin2.png" alt="Good" class="inline"/>](https://projectemiszero.github.io/Congratulations/)
 
